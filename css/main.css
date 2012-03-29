@@ -1,0 +1,63 @@
+/*------Color Palette
+
+Light Brown #c69c6c;
+Grey Brown #5b4e43;
+
+
+--------------*/
+
+/*-------------------Header---------------------*/
+header {
+	overflow: hidden;
+}
+
+body {
+	background-size: 70%;
+	max-width: 960px;
+	margin: 0 auto;
+	background-color: #454543;
+	color: #B2B2AF;
+	padding-top: 5%;
+}
+
+#wrapper {
+	background-color: #121212;
+	padding: 2%;
+}
+
+p {
+	text-indent: 1%;
+	font-family: sans-serif;
+}
+
+h1 {
+	text-decoration: underline;
+}
+
+/*-------------------Body---------------------*/
+
+
+
+/*-------------------Fonts--------------------*/
+
+
+
+/*----------------Media Queries---------------*/
+
+
+
+
+	/* Tablet Portrait size to standard 960 (devices and browsers) */
+	@media screen and (min-width: 768px) and (max-width:959px) { 
+	
+}
+	
+	/* Tablet Portrait size to standard 960 (devices and browsers) */
+	@media screen and (min-width: 480px) and (max-width:767px) {
+	 
+}
+	
+	/* Tablet Portrait size to standard 960 (devices and browsers) */
+	@media screen and (max-width: 479px) {
+
+}
